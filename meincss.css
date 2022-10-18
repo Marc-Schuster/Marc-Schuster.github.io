@@ -1,0 +1,69 @@
+html, body{
+height: 100%;
+}
+img{
+max-width:100%;
+    height:auto;
+}
+
+p{ 
+
+
+color:Black;
+
+}
+a:link{
+    text-decoration: underline;
+    color:Black;
+}
+a:hover{
+    color:Blue;
+}
+a:visited{
+color:Black;
+}
+
+body {
+    background-color:GhostWhite ;
+}
+
+footer {
+  width:100%;
+    background-color:DarkGreen;
+    text-align: center;
+}
+.navbar{
+    color:DarkRed;
+    background-color:DarkGreen;
+    margin-bottom:40rem;
+}
+h2,h3,h4{
+
+color:Black;
+font-size:1.7em;
+}
+
+
+
+
+.footer{
+    magrin-top:100rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right:0;
+    width:100%;
+    background-color:DarkGreen;
+    text-align: center;
+
+}
+a.linkColor{
+    color:White;
+}
+.unterstrichen{
+text-decoration: underline;
+}
+
+img{
+     border-radius: 8px;
+}
